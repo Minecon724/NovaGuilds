@@ -29,7 +29,7 @@ public class EnchantmentGlow extends Enchantment {
 	 * Registers it as 'ngglow'
 	 */
 	public EnchantmentGlow() {
-		super(NamespacedKey.minecraft("ngglow"));
+		super(578);
 	}
 
 	@Override
